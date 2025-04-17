@@ -1,0 +1,7 @@
+[submodule "abirsnotes/themes/terminal"]
+	path = abirsnotes/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "abirsnotes/public"]
+	path = abirsnotes/public
+	url = https://github.com/AD2011/AD2011.github.io.git
+	branch = main
